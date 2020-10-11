@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/minnos/.dotnet/store/|arch|/|tfm|",
+      "/home/minnos/.nuget/packages"
+    ]
+  }
+}
